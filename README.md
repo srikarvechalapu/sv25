@@ -23,7 +23,7 @@ I'm a **results-driven Data Analyst** with 5+ years of experience turning data i
 - Building scalable ETL pipelines and automated workflows
 - Designing insightful dashboards and visualizations
 - Collaborating with cross-functional teams to improve decisions
-- Leveraging tools like Python, SQL, Power BI, and AWS to solve real-world problems
+- Leveraging tools like Python, SQL, Power BI, and AWS to Solve real-world problems
 
 ---
 
